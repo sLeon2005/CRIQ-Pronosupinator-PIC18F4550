@@ -28,7 +28,7 @@ The firmware running on the PIC handles:
 
 **Outputs & Interfaces**
 - 128×64 OLED display (I²C)
-- LED ring driven through a 74HC138 demultiplexer
+- LED "crown" driven through a 74HC138 demultiplexer
 - Bluetooth module (UART)
 
 **Other**
@@ -68,7 +68,7 @@ The firmware is responsible for:
 
 This repository contains **only the firmware source file** used in the project:
 
-- `Prono.c` – Main firmware file for the pronosupinator system
+- `main.c` – Main firmware file for the pronosupinator system
 
 No schematics, PCB files, or mechanical designs are included in this repository.
 
