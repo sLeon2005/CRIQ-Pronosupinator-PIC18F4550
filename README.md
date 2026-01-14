@@ -80,7 +80,12 @@ No schematics, PCB files, or mechanical designs are included in this repository.
 
 ## Authors
 
-Developed by the *Pan de Muerto* team as part of an academic project in Mechatronics Engineering.
+Developed by the *Pan de Muerto* team:
+- Kintia Alexa Negrete Osuna
+- Yudy Camila Pérez Cervantes
+- Francisco Hernández Ramírez
+- Jesús Zamora Castelazo
+- Sebastián León Medellín
 
 ## License
 
